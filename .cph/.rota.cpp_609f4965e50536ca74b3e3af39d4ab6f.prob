@@ -1,0 +1,1 @@
+{"name":"Local: rota","url":"c:\\Users\\singh\\OneDrive\\Desktop\\TLE1\\rota.cpp","tests":[{"id":1710496375781,"input":"4\n0101\n1101\n1111\n0000","output":"1010\n1101\n0111\n0001"},{"id":1710496420786,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\singh\\OneDrive\\Desktop\\TLE1\\rota.cpp","group":"local","local":true}
