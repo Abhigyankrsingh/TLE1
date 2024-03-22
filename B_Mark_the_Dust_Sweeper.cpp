@@ -278,7 +278,7 @@ void solve(){
     
 }
 
-int32_t main()
+signed main()
 {
  
  ios_base::sync_with_stdio(false);
@@ -288,8 +288,8 @@ int32_t main()
     cin >> T;
     while (T--)
     {
-         
-         
+       
+       
     }
     return 0;
 }
